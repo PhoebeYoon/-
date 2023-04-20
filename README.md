@@ -8,6 +8,14 @@ def my_function():
 # 함수사용하기
 my_function()
 
+def my_function(fname):
+  print(fname + " Refsnes")
+
+my_function("Emil")
+my_function("Tobias")
+my_function("Linus")
+
+
 ````
 
 
