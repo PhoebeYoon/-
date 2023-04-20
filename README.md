@@ -1,5 +1,13 @@
 
 ```python
+# 논리값
+print(10 > 9)
+print(10 == 9)
+print(10 < 9)
+
+
+
+
 print(-1)
 print(0)
 print(1) # 정수형
